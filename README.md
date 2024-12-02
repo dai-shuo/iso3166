@@ -29,7 +29,7 @@ iso 3166-1 and iso 3166-2 tables.
 | ---- | ---- | ---- |
 | US-NY | New York | New_York_(state) |
 
-- code: the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the subdivision.
+- code: the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) code of the subdivision. the pattern is always <Alpha-2>-<Subdivision>, where <Alpha-2> is the [ISO 3166-1 Alpha-2] country code. You can always find the alpha-2 code in [iso3166-1.csv](iso3166-1.csv).
 - name: the subdivision name.
 - wikipedia: the wikepedia page of the subdivision is https://en.wikipedia.org/wiki/{wikipedia}.
 
